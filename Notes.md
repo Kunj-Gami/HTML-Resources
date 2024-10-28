@@ -1,5 +1,5 @@
 
-# Notes : HTML & HTML5
+# HTML & HTML5 Notes
 
 ## Basic Structure of HTML
 - **`<html>`**: Root element of an HTML document.
