@@ -134,5 +134,6 @@
     - **Attributes**: `controls`, `muted`, `loop`.
   - **`<iframe>`**: Embeds another document within the current document.
 
-
+## Summary
+These notes provide a comprehensive overview of HTML and HTML5 tags, their attributes, and practical uses. By mastering these elements, students can effectively structure and style web content.
 
